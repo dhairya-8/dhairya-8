@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <!-- Sleek GTA IV inspired/coding vibe -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400"/>
   
   # Hey, I'm Dhairya Sharma 🎮  
   ### Backend Developer | Python-Django Specialist | MCA Student | Gamer at Heart
