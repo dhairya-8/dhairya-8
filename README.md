@@ -7,7 +7,7 @@
 👨‍💻 About Me
 I am a Master of Computer Applications student at GLS University, driven by a passion for transforming complex problems into elegant backend systems. My core expertise lies in building and deploying scalable web applications using the Python/Django stack. I thrive on writing clean, efficient code and architecting powerful database solutions.
 
-🔭 I’m currently building VibeDrobe — Your ultimate fashion destination for trendy, stylish, and confident looks.
+🔭 I’m currently building [Mention a cool feature of your project here]
 
 🌱 I’m deepening my understanding of DevOps principles and containerization with Docker.
 
@@ -27,7 +27,7 @@ Here are the technologies I work with every day:
 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="python"/></a>
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="javascript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="javascript"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="html5"/></a>
 </p>
 
@@ -71,7 +71,7 @@ Here are the technologies I work with every day:
 
 🤝 Connect with Me
 <p align="center">
-<a href="www.linkedin.com/in/sharma-dhairya" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/sharma-dhairya" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 </p>
